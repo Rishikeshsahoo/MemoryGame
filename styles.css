@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+  background-image: url("images/gokuldham.jpg");
+  background-size: cover;
+}
+
+#level-title {
+  font-family: 'Rampart One', cursive;
+  font-size: 4rem;
+  margin:  3% 0 3%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 100%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 15px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 50%;
+}
+
+.game-over {
+  background-image: linear-gradient();
+  opacity: 0.8;
+}
+.jetha
+{
+  background-image: url("images/jetha.jpg");
+  background-size: cover;
+}
+.champak
+{
+  background-image: url("images/champaklal.jpg");
+  background-size: 100% 100%;
+}
+.popat
+{
+  background-image: url("images/popat.jpg");
+  background-size: 100% 100%;
+}
+.daya
+{
+  background-image: url("images/daya.jpg");
+  background-size: 100% 100%;
+}
+.sundar
+{
+  background-image: url("images/sundarlal.jpg");
+  background-size: 100% 100%;
+}
+.bhide
+{
+  background-image: url("images/bhide.png");
+  background-size: 100% 100%;
+}
+.red {
+  background-image:linear-gradient(red,red);
+}
+
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
